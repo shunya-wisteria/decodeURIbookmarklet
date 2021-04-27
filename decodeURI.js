@@ -1,0 +1,1 @@
+javascript:(()=>{window.alert(decodeURIComponent(location.href))})();
